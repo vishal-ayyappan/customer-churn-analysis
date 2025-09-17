@@ -100,4 +100,4 @@ An interactive dashboard was created in Tableau to summarize the key findings an
     ```bash
     pip install -r requirements.txt
     ```
-3.  Run the Jupyter Notebook `Telco_Churn_Analysis.ipynb` to see the complete analysis.
+3.  Run the Jupyter Notebook `main.ipynb` to see the complete analysis.
